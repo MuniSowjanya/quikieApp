@@ -1,2 +1,2 @@
-# quikieApp
+# redux
 Created with CodeSandbox
